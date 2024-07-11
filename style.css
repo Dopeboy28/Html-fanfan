@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://telegra.ph/file/20e749a0c48505a68cb18.jpg');
+    background-size: cover;
+    color: #333; /* Couleur de texte par défaut */
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #ff5733; /* Couleur de titre */
+}
+
+h2 {
+    color: #1976d2; /* Couleur de sous-titre */
+}
+
+p {
+    line-height: 1.6;
+}
+
+h3, h4 {
+    color: #009688; /* Couleur des sous-titres */
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid #009688; /* Couleur de la ligne horizontale */
+}
+
